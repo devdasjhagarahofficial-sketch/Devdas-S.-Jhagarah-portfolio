@@ -1,0 +1,5 @@
+
+User-agent: *
+Allow: /
+
+Sitemap: https://devdas-s-jhagarah-portfolio.vercel.app/sitemap.xml
